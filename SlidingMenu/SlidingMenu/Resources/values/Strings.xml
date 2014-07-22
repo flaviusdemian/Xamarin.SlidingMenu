@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">SlidingMenu</string>
+  <string name="SETTINGS_PROFILE">Settings</string>
+</resources>
