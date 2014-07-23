@@ -1,3 +1,0 @@
-C:\Users\Flavius-Radu\Projects\Xamarin.SlidingDrawer\Xamarin.SlidingMenu\SlidingMenu\SlidingMenu\bin\Debug\SlidingMenu.dll
-C:\Users\Flavius-Radu\Projects\Xamarin.SlidingDrawer\Xamarin.SlidingMenu\SlidingMenu\Components\XamarinActionBarSherlock-4.4.0.5\lib\android\ActionBarSherlock.dll
-C:\Users\Flavius-Radu\Projects\Xamarin.SlidingDrawer\Xamarin.SlidingMenu\SlidingMenu\Components\XamarinActionBarSherlock-4.4.0.5\lib\android\Xamarin.Android.Support.v4.dll
