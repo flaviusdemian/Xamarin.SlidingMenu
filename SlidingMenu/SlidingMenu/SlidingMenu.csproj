@@ -15,8 +15,10 @@
     <AndroidApplication>true</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <AndroidUseLatestPlatformSdk>
+    </AndroidUseLatestPlatformSdk>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <TargetFrameworkVersion>v4.3</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -54,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activities\SlidingMenuExampleActivity.cs" />
     <Compile Include="Activities\SlidingMenuParentActivity.cs" />
     <Compile Include="Adapters\SettingsAdapter.cs" />
     <Compile Include="Application\MyApplication.cs" />
@@ -86,6 +89,23 @@
     <AndroidResource Include="Resources\drawable\activity_settings_list_selector_background.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_slidingmenu.axml" />
+    <AndroidResource Include="Resources\layout\activity_expandable_listview_header.axml" />
+    <AndroidResource Include="Resources\drawable\drawer_shadow.9.png" />
+    <AndroidResource Include="Resources\drawable\ic_drawer.png" />
+    <AndroidResource Include="Resources\drawable\blue_bar.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_user.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_settingsicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_videocallicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_friendsicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_communityicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_helpicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_ratethisappicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_paypalicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_abouticon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_termsandconditionsicon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_logouticon.png" />
+    <AndroidResource Include="Resources\drawable\linkedtranslators_reportaproblemicon.png" />
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="XamarinActionBarSherlock">

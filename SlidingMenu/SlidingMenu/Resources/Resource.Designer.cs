@@ -1305,10 +1305,55 @@ namespace SlidingMenu
 			public const int activity_settings_list_selector_background = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int Icon = 2130837617;
+			public const int blue_bar = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int monoandroidsplash = 2130837618;
+			public const int drawer_shadow = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int ic_drawer = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int Icon = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int linkedtranslators_abouticon = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int linkedtranslators_communityicon = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int linkedtranslators_friendsicon = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int linkedtranslators_helpicon = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int linkedtranslators_logouticon = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int linkedtranslators_paypalicon = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int linkedtranslators_ratethisappicon = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int linkedtranslators_reportaproblemicon = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int linkedtranslators_settingsicon = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int linkedtranslators_termsandconditionsicon = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int linkedtranslators_user = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int linkedtranslators_videocallicon = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int monoandroidsplash = 2130837633;
 			
 			static Drawable()
 			{
@@ -1440,8 +1485,23 @@ namespace SlidingMenu
 			// aapt resource value: 0x7f04000b
 			public const int abs__up = 2130968587;
 			
+			// aapt resource value: 0x7f04003a
+			public const int content_frame = 2130968634;
+			
+			// aapt resource value: 0x7f040032
+			public const int current_customer_image = 2130968626;
+			
+			// aapt resource value: 0x7f040034
+			public const int current_customer_location = 2130968628;
+			
+			// aapt resource value: 0x7f040033
+			public const int current_customer_name = 2130968627;
+			
 			// aapt resource value: 0x7f040009
 			public const int disableHome = 2130968585;
+			
+			// aapt resource value: 0x7f040039
+			public const int drawer_layout = 2130968633;
 			
 			// aapt resource value: 0x7f040026
 			public const int edit_query = 2130968614;
@@ -1449,20 +1509,26 @@ namespace SlidingMenu
 			// aapt resource value: 0x7f040006
 			public const int homeAsUp = 2130968582;
 			
+			// aapt resource value: 0x7f04003b
+			public const int left_drawer = 2130968635;
+			
 			// aapt resource value: 0x7f040002
 			public const int listMode = 2130968578;
 			
 			// aapt resource value: 0x7f040001
 			public const int normal = 2130968577;
 			
-			// aapt resource value: 0x7f040035
-			public const int settings_section_title = 2130968629;
+			// aapt resource value: 0x7f04003c
+			public const int right_drawer = 2130968636;
 			
-			// aapt resource value: 0x7f040033
-			public const int settings_sectionitem_icon = 2130968627;
+			// aapt resource value: 0x7f040038
+			public const int settings_section_title = 2130968632;
 			
-			// aapt resource value: 0x7f040034
-			public const int settings_sectionitem_label = 2130968628;
+			// aapt resource value: 0x7f040036
+			public const int settings_sectionitem_icon = 2130968630;
+			
+			// aapt resource value: 0x7f040037
+			public const int settings_sectionitem_label = 2130968631;
 			
 			// aapt resource value: 0x7f040008
 			public const int showCustom = 2130968584;
@@ -1473,8 +1539,8 @@ namespace SlidingMenu
 			// aapt resource value: 0x7f040007
 			public const int showTitle = 2130968583;
 			
-			// aapt resource value: 0x7f040032
-			public const int slidingmenu_view = 2130968626;
+			// aapt resource value: 0x7f040035
+			public const int slidingmenu_view = 2130968629;
 			
 			// aapt resource value: 0x7f040003
 			public const int tabMode = 2130968579;
@@ -1578,19 +1644,25 @@ namespace SlidingMenu
 			public const int abs__simple_dropdown_hint = 2130903060;
 			
 			// aapt resource value: 0x7f030015
-			public const int activity_settings = 2130903061;
+			public const int activity_expandable_listview_header = 2130903061;
 			
 			// aapt resource value: 0x7f030016
-			public const int activity_settings_section_item = 2130903062;
+			public const int activity_settings = 2130903062;
 			
 			// aapt resource value: 0x7f030017
-			public const int activity_settings_section_view = 2130903063;
+			public const int activity_settings_section_item = 2130903063;
 			
 			// aapt resource value: 0x7f030018
-			public const int sherlock_spinner_dropdown_item = 2130903064;
+			public const int activity_settings_section_view = 2130903064;
 			
 			// aapt resource value: 0x7f030019
-			public const int sherlock_spinner_item = 2130903065;
+			public const int activity_slidingmenu = 2130903065;
+			
+			// aapt resource value: 0x7f03001a
+			public const int sherlock_spinner_dropdown_item = 2130903066;
+			
+			// aapt resource value: 0x7f03001b
+			public const int sherlock_spinner_item = 2130903067;
 			
 			static Layout()
 			{
@@ -1610,6 +1682,54 @@ namespace SlidingMenu
 			
 			// aapt resource value: 0x7f09000d
 			public const int Hello = 2131296269;
+			
+			// aapt resource value: 0x7f090011
+			public const int IMAGE_CONTENT_DESCRIPTION_DECORATIVE = 2131296273;
+			
+			// aapt resource value: 0x7f09001b
+			public const int SETTINGS_ABOUT = 2131296283;
+			
+			// aapt resource value: 0x7f09001d
+			public const int SETTINGS_ACCOUNT_SETTINGS = 2131296285;
+			
+			// aapt resource value: 0x7f090016
+			public const int SETTINGS_COMMUNITY = 2131296278;
+			
+			// aapt resource value: 0x7f09001a
+			public const int SETTINGS_DONATE = 2131296282;
+			
+			// aapt resource value: 0x7f090013
+			public const int SETTINGS_EDIT_PROFILE = 2131296275;
+			
+			// aapt resource value: 0x7f090015
+			public const int SETTINGS_FRIENDS = 2131296277;
+			
+			// aapt resource value: 0x7f090017
+			public const int SETTINGS_HELP = 2131296279;
+			
+			// aapt resource value: 0x7f090018
+			public const int SETTINGS_HOW_TO_USE = 2131296280;
+			
+			// aapt resource value: 0x7f090020
+			public const int SETTINGS_LOGOUT = 2131296288;
+			
+			// aapt resource value: 0x7f090012
+			public const int SETTINGS_PROFILE = 2131296274;
+			
+			// aapt resource value: 0x7f090019
+			public const int SETTINGS_RATE_THIS_APP = 2131296281;
+			
+			// aapt resource value: 0x7f09001f
+			public const int SETTINGS_REPORT_A_PROBLEM = 2131296287;
+			
+			// aapt resource value: 0x7f09001c
+			public const int SETTINGS_SETTINGS = 2131296284;
+			
+			// aapt resource value: 0x7f09001e
+			public const int SETTINGS_TERMS_AND_CONDITIONS = 2131296286;
+			
+			// aapt resource value: 0x7f090014
+			public const int SETTINGS_VIDEO_CALL = 2131296276;
 			
 			// aapt resource value: 0x7f090000
 			public const int abs__action_bar_home_description = 2131296256;
@@ -1649,6 +1769,12 @@ namespace SlidingMenu
 			
 			// aapt resource value: 0x7f090007
 			public const int abs__shareactionprovider_share_with_application = 2131296263;
+			
+			// aapt resource value: 0x7f090010
+			public const int drawer_close = 2131296272;
+			
+			// aapt resource value: 0x7f09000f
+			public const int drawer_open = 2131296271;
 			
 			static String()
 			{
@@ -2226,7 +2352,7 @@ namespace SlidingMenu
 					16843362,
 					16843436,
 					16843437,
-					16843837};
+					16843807};
 			
 			// aapt resource value: 5
 			public const int SherlockSpinner_android_dropDownHorizontalOffset = 5;

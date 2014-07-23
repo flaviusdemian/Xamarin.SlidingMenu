@@ -10,6 +10,11 @@ namespace SlidingMenu.Models
         public List<SectionItem> SectionItems = new List<SectionItem>();
         public String Title { get; set; }
 
+        public Section(string title)
+        {
+            Title = title;
+        }
+
         public void AddSectionItem(long id, String title, String icon)
         {
             SectionItems.Add(new SectionItem(id, title, icon));

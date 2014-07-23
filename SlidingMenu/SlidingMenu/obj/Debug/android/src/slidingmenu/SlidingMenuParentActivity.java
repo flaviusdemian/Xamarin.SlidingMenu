@@ -1,7 +1,7 @@
 package slidingmenu;
 
 
-public class SlidingMenuParentActivity
+public abstract class SlidingMenuParentActivity
 	extends com.actionbarsherlock.app.SherlockFragmentActivity
 	implements
 		mono.android.IGCUserPeer,
