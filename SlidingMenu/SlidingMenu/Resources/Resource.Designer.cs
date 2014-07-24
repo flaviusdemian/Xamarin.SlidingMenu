@@ -1545,6 +1545,9 @@ namespace SlidingMenu
 			// aapt resource value: 0x7f040003
 			public const int tabMode = 2130968579;
 			
+			// aapt resource value: 0x7f04003d
+			public const int tvHelloWorld = 2130968637;
+			
 			// aapt resource value: 0x7f040004
 			public const int useLogo = 2130968580;
 			
@@ -1659,10 +1662,16 @@ namespace SlidingMenu
 			public const int activity_slidingmenu = 2130903065;
 			
 			// aapt resource value: 0x7f03001a
-			public const int sherlock_spinner_dropdown_item = 2130903066;
+			public const int activity_slidingmenu_filter_result = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int sherlock_spinner_item = 2130903067;
+			public const int activity_slidingmenu_filter_results_row = 2130903067;
+			
+			// aapt resource value: 0x7f03001c
+			public const int sherlock_spinner_dropdown_item = 2130903068;
+			
+			// aapt resource value: 0x7f03001d
+			public const int sherlock_spinner_item = 2130903069;
 			
 			static Layout()
 			{

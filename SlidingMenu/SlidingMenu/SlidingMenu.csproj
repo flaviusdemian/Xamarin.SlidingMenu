@@ -60,6 +60,7 @@
     <Compile Include="Activities\SlidingMenuParentActivity.cs" />
     <Compile Include="Adapters\SettingsAdapter.cs" />
     <Compile Include="Application\MyApplication.cs" />
+    <Compile Include="Fragments\FragmentSample.cs" />
     <Compile Include="Helper\MenuHelper.cs" />
     <Compile Include="Models\Section.cs" />
     <Compile Include="Models\SectionItem.cs" />
@@ -106,6 +107,10 @@
     <AndroidResource Include="Resources\drawable\linkedtranslators_termsandconditionsicon.png" />
     <AndroidResource Include="Resources\drawable\linkedtranslators_logouticon.png" />
     <AndroidResource Include="Resources\drawable\linkedtranslators_reportaproblemicon.png" />
+    <AndroidResource Include="Resources\layout\activity_slidingmenu_filter_results_row.axml" />
+    <AndroidResource Include="Resources\layout\activity_slidingmenu_filter_result.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="XamarinActionBarSherlock">
@@ -114,7 +119,6 @@
     </XamarinComponentReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Fragments\" />
     <Folder Include="ViewHolders\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
